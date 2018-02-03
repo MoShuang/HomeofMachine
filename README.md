@@ -1,4 +1,5 @@
 ##Note：这里是机械之家web开发说明文档
+
 ###1. 分工
  - 前端：Jack、zkquinn
  - 后端：MoSan
