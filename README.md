@@ -3,6 +3,7 @@
 ###1. 分工
  - 前端：Jack、zkquinn
  - 后端：MoSan
+ - Product：silence
 
 ###2. 开发软件
  - 前端：JavaScript、HTML、CSS
