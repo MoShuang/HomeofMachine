@@ -1,7 +1,9 @@
 ##Note：这里是机械之家web开发说明文档
+
 ###1. 分工
- - 前端：Jack、zkquinn
+ - 前端：Jack、Jason、zkquinn
  - 后端：MoSan
+ - 产品：silence
 
 ###2. 开发软件
  - 前端：JavaScript、HTML、CSS
@@ -12,8 +14,18 @@
  
 ###3.开发硬件
 - 服务器提供商：阿里云
+- 硬件参数：
+  - CPU：1核
+  - 内存1GB
+  - 操作系统Ubuntu 16.04 64位
+  - 公网IP：47.94.244.9
+  - 私有IP：172.17.60.23
+  - 带宽：1Mbps
 
 ###4. 主题
  - 机械相关周边内容
+<<<<<<< HEAD
 
  Creating a new branch is quick.
+=======
+>>>>>>> 0c7f9559439c02bdc689f18b02f47ae20f6828b7
