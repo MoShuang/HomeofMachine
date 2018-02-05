@@ -27,6 +27,7 @@
 <<<<<<< HEAD
 
  Creating a new branch is quick.
+ Branch manage.
 <<<<<<< HEAD
  Creating a new brach is quick and simple.
 =======
