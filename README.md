@@ -27,6 +27,10 @@
 <<<<<<< HEAD
 
  Creating a new branch is quick.
- Creating a new brach is quick & simple.
+<<<<<<< HEAD
+ Creating a new brach is quick and simple.
+=======
+ Creating a new brach is quick and simple.
+>>>>>>> feature1
 =======
 >>>>>>> 0c7f9559439c02bdc689f18b02f47ae20f6828b7
